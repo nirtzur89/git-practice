@@ -1,3 +1,4 @@
 Name: Nir
 Age: 29
-Favorite Color: black
+Favorite Color: Black
+Eye Color: Green
